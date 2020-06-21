@@ -3,7 +3,7 @@ title: "MY-TRIAL-WEBPAGE"
 date: 2020-06-21
 ---
 
-For me, math class is like watching a foreign movie without subtitles
+For me, math class is like watching a foreign movie without subtitles \n
 Sure, I do marathons. On Netflix
 Dear sleep: thanks for trying, but you can’t beat surfing the net
 If you are funny, you are automatically 75% more probable that we are friends. You know, many things change and fade, but sarcasm is forever
