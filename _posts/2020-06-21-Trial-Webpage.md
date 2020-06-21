@@ -1,3 +1,8 @@
+---
+title: "MY TRIAL WEBPAGE"
+date: "2020-06-21"
+---
+
 For me, math class is like watching a foreign movie without subtitles
 Sure, I do marathons. On Netflix
 Dear sleep: thanks for trying, but you can’t beat surfing the net
