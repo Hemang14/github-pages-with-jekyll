@@ -1,6 +1,6 @@
 ---
 title: "MY TRIAL WEBPAGE"
-date: "2020-06-21"
+date: 2020-06-21
 ---
 
 For me, math class is like watching a foreign movie without subtitles
